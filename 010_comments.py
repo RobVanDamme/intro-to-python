@@ -68,9 +68,10 @@
 # they're just for me to talk to you. You can create one
 # yourself if you like.
 
-# Type your name as a comment on the next line.
+# Type your name as a comment on the next line
 
 # Hint: if you're on a Mac, type opt + 3 to get a #
 
+#james
 # Now open up 011_identity.py and get started with some
 # real code!
